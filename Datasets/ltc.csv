@@ -1,4 +1,4 @@
-date,txVolume(USD),txCount,marketcap(USD),price(USD),exchangeVolume(USD),generatedCoins,fees
+date,txVolume(USD),txCount,marketcap(USD),price(USD),exchangeVolume(USD),generatedCoins,fees,drop_this
 2013/04/28,39038951.4164,8847.0,73773400.0,4.35,0.0,32800.0,511.08159589,
 2013/04/29,48283928.5033,9408.0,74952700.0,4.38,0.0,31500.0,634.12115353,
 2013/04/30,38686089.5796,9092.0,75726800.0,4.3,0.0,32450.0,597.09819722,
