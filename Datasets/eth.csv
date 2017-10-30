@@ -1,4 +1,4 @@
-date,txVolume(USD),txCount,marketcap(USD),price(USD),exchangeVolume(USD),generatedCoins,fees
+date,txVolume(USD),txCount,marketcap(USD),price(USD),exchangeVolume(USD),generatedCoins,fees,drop_this
 2015/08/07,0.0,0.0,0.0,2.77,164329.0,27075.46875,0.0,
 2015/08/08,1513208.90806,2016.0,167911000.0,0.753325,674188.0,27437.65625,37.3184135113,
 2015/08/09,1180418.47331,2807.0,42637600.0,0.701897,532170.0,27943.4375,68.0999700719,
